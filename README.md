@@ -1,4 +1,4 @@
-# Use
+# Usage
 
 This is a Python codelet (.py) that identifies duplicate files in a folder and prints a text file (.txt) listing said duplicates. Document data is not transmitted beyond the computer.
 
